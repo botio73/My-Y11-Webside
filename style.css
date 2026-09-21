@@ -52,3 +52,26 @@ hr{
    font-size: 24px;
    line-height: 1.4;
 }
+
+.role {
+  display: grid;
+  grid-template-columns: 1fr 180px;
+  align-items: center;
+  gap: 20px;
+  margin: 15px 20px;
+}
+
+.role img {
+  width: 160px;
+  height: 220px;
+}
+
+.role h3 {
+  margin: 0 10px;
+  font-size: 30px;
+}
+
+.role p {
+  font-size: 20px;
+}
+
