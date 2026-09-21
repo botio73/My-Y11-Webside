@@ -75,3 +75,12 @@ hr{
   font-size: 20px;
 }
 
+.loyalist,
+.traitor {
+  grid-template-columns: 180px 1fr;
+}
+
+.ruler,
+.rebel {
+  margin-left: 20px;
+}
