@@ -6,3 +6,17 @@
 body{
   margin: 0;
 }
+
+.intro{
+  margin-top: 20px;
+  font-size: 28px;
+  text-align: center;
+}
+
+.introduction{
+  background-image: url("./images/background.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 470px;
+}
