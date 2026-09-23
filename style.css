@@ -23,7 +23,7 @@ body{
 }
 
 hr{
-  width: 150%;
+  width: 100%;
   margin: 20px auto;
   border: 2.5px solid black;
 }
@@ -108,12 +108,8 @@ hr{
   font-size: 20px;
 }
 
-.author{
+.author p{
   margin-left: 20px;
   margin-top: 20px;
   font-size: 20px;
-}
-
-.author hr{
-  margin-left: -20px;
 }
