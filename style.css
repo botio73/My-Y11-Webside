@@ -23,18 +23,13 @@ body{
 }
 
 hr{
-  width: 50%;
+  width: 100%;
   margin: 20px auto;
-  border: 4px solid black;
+  border: 2.5px solid black;
 }
 
 .identity {
    text-align: center;
-}
-
-.identity hr {
-  width: 100%;
-  border-top: 2.5px solid black;
 }
 
 .identity h2 {
@@ -110,5 +105,11 @@ hr{
 .shiweiyan,
 .jiangwei,
 .shizhouyu{
+  font-size: 20px;
+}
+
+.author{
+  margin-left: 20px;
+  margin-top: 20px;
   font-size: 20px;
 }
