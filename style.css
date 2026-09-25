@@ -24,7 +24,7 @@ body{
 
 hr{
   width: 100%;
-  margin: 20px auto;
+  margin: 20px 0;
   border: 2.5px solid black;
 }
 
@@ -33,14 +33,14 @@ hr{
 }
 
 .identity h2 {
-   margin: 25px 0;
+   margin: 25px 40px;
    color: black;
    font-size: 36px;
    letter-spacing: 1px;
 }
 
 .identity-models {
-   margin: 40px;
+   margin: 40px 40px;
    text-align: left;
 }
 
@@ -54,7 +54,7 @@ hr{
   grid-template-columns: 1fr 180px;
   align-items: center;
   gap: 20px;
-  margin: 15px 20px;
+  margin: 15px 40px;
 }
 
 .role img {
@@ -78,20 +78,20 @@ hr{
 
 .ruler,
 .rebel {
-  margin-left: 20px;
+  margin-left: 40px;
 }
 
 .jiangwei{
   display: grid;
   grid-template-columns: 250px 1fr;
   gap: 20px;
-  margin-left: 30px;
+  margin-left: 40px;
   margin-top: 40px;
 }
 
 .shiweiyan,
 .shizhouyu{
-  margin-left: 30px;
+  margin-left: 40px;
   margin-top: 40px;
 }
 
@@ -109,7 +109,7 @@ hr{
 }
 
 .author p{
-  margin-left: 20px;
+  margin-left: 40px;
   margin-top: 20px;
   font-size: 20px;
 }
